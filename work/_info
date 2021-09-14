@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/tanto/Documents/ece554/ece554_miniproject/hw
+vtpumac
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1631654894
+!i10b 1
+!s100 V@N?<Qj80E7`a5T8BKaCT2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IdFMf]@gLdkbfS:UMVdiWJ1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dC:/Users/tanto/Documents/ece554/minilab2
+w1631654886
+8C:/Users/tanto/Documents/ece554/minilab2/tpumac.sv
+FC:/Users/tanto/Documents/ece554/minilab2/tpumac.sv
+!i122 0
+L0 2 37
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1631654893.000000
+!s107 C:/Users/tanto/Documents/ece554/minilab2/tpumac.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/tanto/Documents/ece554/minilab2/tpumac.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+vtpumac_tb
+R0
+!s110 1631658085
+!i10b 1
+!s100 H:7m`YbF`B7>m?dj=HC7`1
+R1
+I^MO<;l_ab]JYj9dD9_bb20
+R2
+S1
+R3
+w1631658079
+8C:/Users/tanto/Documents/ece554/minilab2/tpumac_tb.sv
+FC:/Users/tanto/Documents/ece554/minilab2/tpumac_tb.sv
+!i122 8
+L0 3 81
+R4
+r1
+!s85 0
+31
+!s108 1631658084.000000
+!s107 C:/Users/tanto/Documents/ece554/minilab2/tpumac_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/tanto/Documents/ece554/minilab2/tpumac_tb.sv|
+!i113 1
+R5
+R6
